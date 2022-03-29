@@ -5,5 +5,5 @@ In this game you start with two tiles, the lowest possible number available is t
 Then you will play by combining the tiles with the same number to have a tile with the sum of the number on the two tiles. 
 Combining the tile allows the player to earn the score equal to the value of the new tile. The player plays to earn as high a score as possible.
 
-##Implementation
+## Implementation
 Implemented the basic game mechanics and GUI using an object-oriented programming approach in Java.
